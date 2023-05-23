@@ -1,8 +1,14 @@
 # erc20
 发币教程 详情请看项目中的pdf
 
-有任何问题或者想法，可以电报联系：https://t.me/playbtc
-或加电报群：https://t.me/pandatool
+有任何问题或者想法您可以
+[联系我们][1]
+
+[1]: https://t.me/playbtc
+或者加入我们的
+[电报群][1]
+
+[1]:https://t.me/pandatool
 
 # 相关链接 
 ## 谷歌商店
