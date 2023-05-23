@@ -8,10 +8,8 @@ https://chrome.google.com/webstore?hl=zh-CN，
 https://remix.ethereum.org/#optimize=false&version=soljson-v0.4.12+commit.194ff033.js&runs=200&evmVersion=null
 
 ## arb测试链参数
-如果要用 ARB 测试链，需要配置 ARB 测试链（基于 Goerli）网络，这里将配置的信息一并写
-出来：
-➢ 网络名称（自定义）：Arbitrum Goerli Testnet
-➢ 新增 RPC URL： ➢ https://goerli-rollup.arbitrum.io/rpc
-➢ 链 ID：41263
-➢ 符号（选填）：ETH
-➢ 测试链浏览器：https://testnet.arbiscan.io/
+网络名称（自定义）：Arbitrum Goerli Testnet
+新增 RPC URL： ➢ https://goerli-rollup.arbitrum.io/rpc
+链 ID：41263
+符号（选填）：ETH
+测试链浏览器：https://testnet.arbiscan.io/
