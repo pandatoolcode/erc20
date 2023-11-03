@@ -8,20 +8,20 @@
 - 小白用户也能学会，钱包预留至少0.2ETH
 
 
-# 视频实战讲解 
+## 视频实战讲解 
 https://www.youtube.com/watch?v=g7NtdaDXCr0&t=5s
 
-# 合约代码
+## 合约代码
 https://github.com/pandatoolcode/erc20/blob/main/ERC20.sol
 
-# 合约编译/开源
+## 合约编译/开源
 ```
 COMPILER: v0.8.18+commit.e28d00a7.js
 Enable optimization: 不开启
 Other Settings: default evmVersion, MIT license
 ```
 
-# 合约部署信息
+## 合约部署信息
 ```
 ENVIRONMENT：Injecte Provider-MetaMask
 Gas LIMIT：3000000（默认）
@@ -32,10 +32,10 @@ Name：代币全称（如Ethereum）
 Symbol：代币简称（如ETH）全称和简称可以一样
 ```
 
-# Telegram交流群
+## Telegram交流群
 https://t.me/pandatool
 
-# ARB Goerli测试网
+## ARB Goerli测试网
 - 网络名称（自定义）：Arbitrum Goerli Testnet
 - 新增RPC URL：https://goerli-rollup.arbitrum.io/rpc
 - 链ID：41263
